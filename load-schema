@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+mysql -v -u root --password='PASSWORD' < data.sql

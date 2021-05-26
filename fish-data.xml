@@ -1,0 +1,36 @@
+<SchoolOfApplicants>
+	<Header>
+		<CurrentDate>2007-03-15</CurrentDate>
+		<Records>2</Records>
+	</Header>
+	<Fish>
+		<Name>Katrina Catfish</Name>
+		<DOB>2000-04-02</DOB>
+		<Type>Catfish</Type>
+		<Address home="false">
+			<Ocean>Atlantic</Ocean>
+			<Reef>Glover’s Reef, Belize</Reef>
+			<Depth>32 ft</Depth>
+		</Address>
+		<Address home="true">
+			<Ocean>Pacific</Ocean>
+			<Reef>Great Barrier Reef</Reef>
+			<Depth>64 ft</Depth>
+		</Address>
+	</Fish>
+	<Fish>
+		<Name>Katrina Shark</Name>
+		<DOB>2000-04-02</DOB>
+		<Type>Shark</Type>
+		<Address home="false">
+			<Ocean>Atlantic</Ocean>
+			<Reef>Glover’s Reef, Belize</Reef>
+			<Depth>32 ft</Depth>
+		</Address>
+		<Address home="true">
+			<Ocean>Pacific</Ocean>
+			<Reef>Great Barrier Reef</Reef>
+			<Depth>64 ft</Depth>
+		</Address>
+	</Fish>
+</SchoolOfApplicants>
